@@ -1,0 +1,15 @@
+Package: com.onyx.spoof
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Onyx <onyx@localhost>
+Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.onyx.spoof_2.0.0_iphoneos-arm64.deb
+Size: 49624
+MD5sum: 1e63e0150b943348cf9a3c2ab73da6c0
+SHA1: 0cff7f1aae19b374e7b17b94163fa809c883d264
+SHA256: 82211f9c9592f7bfaea8e7eee6880d87d596ee51e7bfc7eb878e4eedf2871957
+Section: Tweaks
+Description: Device identity spoofing engine — seed-based deterministic identity generation with per-container isolation. MobileGestalt, sysctl, IOKit, UIDevice, carrier, filesystem, proxy, UIScreen, EXIF, keychain, and jailbreak bypass hooks.
+Author: Onyx
+Name: OnyxSpoof
+

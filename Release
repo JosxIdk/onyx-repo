@@ -1,0 +1,8 @@
+Origin: OnyxSpoof
+Label: OnyxSpoof
+Suite: stable
+Version: 2.0
+Codename: onyxspoof
+Architectures: iphoneos-arm64
+Components: main
+Description: OnyxSpoof device identity spoofing engine
